@@ -8,6 +8,6 @@ spec:
   path: ./apps/staging
   prune: true
   sourceRef:
-    king: GitRepository
+    kind: GitRepository
     name: flux-system
 
